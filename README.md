@@ -6,4 +6,4 @@ A chatbot trained on a telegram group conv
 2) Create a telegram bot via @BotFather and get your bot token api.
 3) Store it to a environnement variable API_TOKEN
 4) run 0 and 1 notebooks
-5) launch 2_launch_bot# popo-le-robo
+5) launch 2_launch_bot
